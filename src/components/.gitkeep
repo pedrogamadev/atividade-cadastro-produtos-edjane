@@ -1,0 +1,10 @@
+// Este arquivo está reservado para componentes reutilizáveis.
+//
+// Exemplos de componentes que podem ser criados aqui:
+//   - Botões customizados
+//   - Cards de produto
+//   - Inputs estilizados
+//   - Modais de confirmação
+//
+// Crie um arquivo .tsx para cada componente nesta pasta.
+// Exemplo: src/components/BotaoPrimario.tsx
