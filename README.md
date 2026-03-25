@@ -128,7 +128,7 @@ O arquivo `.gitignore` já está configurado para ignorá-la automaticamente.
 
 Atividade acadêmica desenvolvida em grupo:
 Pedro Humberto Gama de Medeiros - 01741824 (Lider e Dev fulltack)
-Lucas Pereira Bezerra de Menezes - 01852632 
+* Lucas Pereira Bezerra de Menezes - 01852632 
 
 
 ---
