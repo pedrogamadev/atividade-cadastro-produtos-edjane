@@ -130,6 +130,7 @@ Atividade acadêmica desenvolvida em grupo:
 * Pedro Humberto Gama de Medeiros - 01741824 (Lider e Dev fulltack)
 * Lucas Pereira Bezerra de Menezes - 01852632 
 * Otávio Felipe França das Chagas - 01824140
+* Severino Ferreira de Lima Neto - 01821526
 
 
 ---
