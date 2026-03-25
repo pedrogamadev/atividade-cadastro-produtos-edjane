@@ -127,7 +127,7 @@ O arquivo `.gitignore` já está configurado para ignorá-la automaticamente.
 ## 👥 Grupo
 
 Atividade acadêmica desenvolvida em grupo:
-Pedro Humberto Gama de Medeiros - 01741824
+Pedro Humberto Gama de Medeiros - 01741824 (Lider e Dev fulltack)
 
 ---
 
